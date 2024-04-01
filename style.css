@@ -1,0 +1,21 @@
+hr {
+    border: 2px;
+    border-color: red;
+    border-style: solid;
+}
+
+#navbar{
+    display: flex;
+}
+
+#logo{
+    width: 10%;
+}
+
+#navlinks{
+    width: 70%;
+}
+
+#media{
+    width: 20%;
+}
